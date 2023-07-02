@@ -5,18 +5,18 @@ The goal of the student match score prediction ML project is to develop a model 
 ![alt text](https://github.com/nitinshivakumar/ML-End-to-End-Project-Deployed/blob/main/training_model_flow))
 
 ## Agenda
-1. Setup the github {Repository}
+### 1. Setup the github {Repository}
    - New Environment : Conda provide the ability to create and manage isolated environments in which you can install specific versions of packages and libraries. These tools make it easier to set up and manage the project's dependencies, ensuring reproducibility, portability, and compatibility across different environments.
    - Setup.py : The setup.py file is commonly used in ML projects (as well as other Python projects) to define the project's metadata and dependencies, making it easier to distribute and install the project
    - Requirements.txt : The requirements.txt file is another common file used in ML projects (and other Python projects) to specify the project's dependencies. While the setup.py file focuses on metadata and distribution, the requirements.txt file primarily helps with dependency management and reproducibility.
 
-2. Source folder and build the package
+### 2. Source folder and build the package
    - Data Ingestion :Data ingestion is the process of gathering and importing data from various sources into a system or application for further analysis, processing, or storage. In the context of machine learning (ML) projects, data ingestion refers to the initial step of acquiring and preparing data for training and model development
    - Data Transformation : Data transformation is a crucial step in the data preprocessing phase of a machine learning (ML) project. It involves manipulating and modifying the data to make it more suitable for analysis or to meet the requirements of a specific ML algorithm. 
    - Model Trainer : A model trainer is responsible for training machine learning models using the prepared dataset. This involves selecting an appropriate algorithm or model architecture, defining the training procedure, optimizing model parameters, and evaluating the model's performance. 
    - Pipeline : A prediction pipeline, also known as an inference pipeline, is a sequence of steps or processes used to make predictions using a trained machine learning model. It involves taking input data, processing it through the pipeline, and generating predictions or outputs. 
 
-3. Deployment:
+### 3. Deployment:
    Deploying a machine learning model using Flask is a popular approach that allows you to create a web application to serve predictions or make the model accessible via API endpoints. Flask is a lightweight web framework in Python that is commonly used for building web applications.
   
 
