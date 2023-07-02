@@ -19,7 +19,7 @@ The goal of the student match score prediction ML project is to develop a model 
 ### 3. Deployment:
    Deploying a machine learning model using Flask is a popular approach that allows you to create a web application to serve predictions or make the model accessible via API endpoints. Flask is a lightweight web framework in Python that is commonly used for building web applications.
   
-
+------------------------------------------------
 An end-to-end ML project of developing a machine learning model, from data acquisition and preprocessing to model training, evaluation, and deployment. It encompasses all the necessary steps to create a functional ML system that can provide valuable insights or make predictions on new data.
 
 The project typically starts with defining the problem statement and identifying the goals and requirements. Once the objectives are clear, the next step is to gather relevant data. This can involve various sources such as databases, APIs, or web scraping. Data preprocessing is then performed to clean, transform, and normalize the data, making it suitable for model training.
