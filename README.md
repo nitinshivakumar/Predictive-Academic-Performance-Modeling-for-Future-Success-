@@ -14,10 +14,12 @@ The goal of the student match score prediction ML project is to develop a model 
    - Data Ingestion :Data ingestion is the process of gathering and importing data from various sources into a system or application for further analysis, processing, or storage. In the context of machine learning (ML) projects, data ingestion refers to the initial step of acquiring and preparing data for training and model development
    - Data Transformation : Data transformation is a crucial step in the data preprocessing phase of a machine learning (ML) project. It involves manipulating and modifying the data to make it more suitable for analysis or to meet the requirements of a specific ML algorithm. 
    - Model Trainer : A model trainer is responsible for training machine learning models using the prepared dataset. This involves selecting an appropriate algorithm or model architecture, defining the training procedure, optimizing model parameters, and evaluating the model's performance. 
-   - Pipeline : A prediction pipeline, also known as an inference pipeline, is a sequence of steps or processes used to make predictions using a trained machine learning model. It involves taking input data, processing it through the pipeline, and generating predictions or outputs. 
+   - Pipeline : A prediction pipeline, also known as an inference pipeline, is a sequence of steps or processes used to make predictions using a trained machine learning model. It involves taking input data, processing it through the pipeline, and generating predictions or outputs.
 
 ### 3. Deployment:
-   Deploying a machine learning model using Flask is a popular approach that allows you to create a web application to serve predictions or make the model accessible via API endpoints. Flask is a lightweight web framework in Python that is commonly used for building web applications.
+
+![alt text](https://github.com/nitinshivakumar/ML-End-to-End-Project-Deployed/blob/main/Flask.png)
+   - Deploying a machine learning model using Flask is a popular approach that allows you to create a web application to serve predictions or make the model accessible via API endpoints. Flask is a lightweight web framework in Python that is commonly used for building web applications.
   
 ------------------------------------------------
 An end-to-end ML project of developing a machine learning model, from data acquisition and preprocessing to model training, evaluation, and deployment. It encompasses all the necessary steps to create a functional ML system that can provide valuable insights or make predictions on new data.
