@@ -1,5 +1,7 @@
 # End to End Machine Learning Project
 
+The goal of the student match score prediction ML project is to develop a model that can predict the match score between a student and a specific educational program or institution. The match score represents the likelihood or compatibility of a student's profile with the program or institution based on various factors.
+
 ![alt text](https://github.com/nitinshivakumar/ML-End-to-End-Project-Deployed/blob/main/training_model_flow))
 
 ## Agenda
