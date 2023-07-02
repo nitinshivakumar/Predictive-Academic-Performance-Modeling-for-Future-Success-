@@ -1,5 +1,7 @@
 # End to End Machine Learning Project
 
+![alt text]([training_model_flow](https://github.com/nitinshivakumar/ML-End-to-End-Project-Deployed/blob/main/training_model_flow))
+
 ## Agenda
 1. Setup the github {Repository}
    - New Environment : Conda provide the ability to create and manage isolated environments in which you can install specific versions of packages and libraries. These tools make it easier to set up and manage the project's dependencies, ensuring reproducibility, portability, and compatibility across different environments.
