@@ -35,3 +35,6 @@ The final step of an end-to-end ML project is the deployment of the model in a p
 Throughout the project, documentation and version control are crucial for reproducibility and collaboration. Additionally, considerations such as ethical implications, data privacy, and fairness should be taken into account, especially when dealing with sensitive or biased data.
 
 In summary, an end-to-end ML project involves the complete lifecycle of developing a machine learning model, starting from data acquisition and preprocessing, model training and evaluation, and finally, deploying the model in a production environment. It requires expertise in data handling, modeling techniques, evaluation methods, and software engineering practices to create a successful and useful ML system.
+
+## Final Output - Deployment page
+![alt text](https://github.com/nitinshivakumar/ML-End-to-End-Project-Deployed/blob/main/Screenshot%202023-07-02%20at%206.16.25%20PM.png)
