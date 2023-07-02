@@ -1,6 +1,6 @@
 # End to End Machine Learning Project
 
-![alt text]([training_model_flow](https://github.com/nitinshivakumar/ML-End-to-End-Project-Deployed/blob/main/training_model_flow))
+![alt text](https://github.com/nitinshivakumar/ML-End-to-End-Project-Deployed/blob/main/training_model_flow))
 
 ## Agenda
 1. Setup the github {Repository}
